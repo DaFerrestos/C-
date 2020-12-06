@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\dabla\\Desktop\\Curso-C#\\curso-c-sharp-master\\curso-c-sharp-master\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\dabla\\Desktop\\Curso-C#\\curso-c-sharp-master\\curso-c-sharp-master\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\dabla\\Desktop\\Curso-C#\\curso-c-sharp-master\\curso-c-sharp-master\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+        "projectName": "Encapsulamento",
+        "projectPath": "c:\\Users\\dabla\\Desktop\\Curso-C#\\curso-c-sharp-master\\curso-c-sharp-master\\CursoCSharp\\Encapsulamento\\Encapsulamento.csproj",
+        "packagesPath": "C:\\Users\\dabla\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\dabla\\Desktop\\Curso-C#\\curso-c-sharp-master\\curso-c-sharp-master\\CursoCSharp\\Encapsulamento\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dabla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
